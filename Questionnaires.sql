@@ -1,0 +1,13 @@
+         --QUESTIONNAIRES
+--1.Find out the Current year Casualties
+--2.Find out the Currenrt Year Casualties based on Road Conditions
+-- 3.Find out the Current year Accidents
+-- 4.What is the Current Year Casualties for  Serious Accident Severity?
+-- 5.What is the Current Year Casualties for  Slight Accident Severity?
+-- 6.What is the Current Year Casualties for  Fatal Accident Severity?
+-- 7.Find out the Current Year Casualties for different Road Types
+-- 8.Fins out the Total Casualties for Urban and Rural Areas
+-- 9.Find out the Total Casualties for for Day and Dark(Light_Conditions) 
+--10.Find out the Current Year Casualties for various Vehicle Type.
+-- 11.Find out the monthly Trend of Casualties for 2022
+-- 12.Find out the monthly Trend of Casualties for 2021
